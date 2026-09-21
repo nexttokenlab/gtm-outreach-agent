@@ -1,0 +1,1 @@
+-r advanced_ai_agents/multi_agent_apps/ai_email_gtm_outreach_agent/requirements.txt
